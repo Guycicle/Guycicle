@@ -5,7 +5,7 @@
 <h2>I am persuing a career in Front-End Development 🎓</h2>
    <div style="display: flex;">
       <h3>🌍 I am based between Manchester & Leeds, UK</h3>
-      <h3>🧠 I am currently studying JavaScript</h3>
+      <h3>🧠 I am currently studying Node.js</h3>
       <h3>💬 You can contact me at <a href=mailto:“disha@uplers.com”>guymichaelhepworth@gmail.com</a></h3>
       <div><h1></h1>
       <h3>Skills</h3>
@@ -14,6 +14,7 @@
            <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
            <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"  title="Bootstrap" alt="" width="40" height="40"/>
            <img src="https://github.com/devicons/devicon/blob/master/icons/bulma/bulma-plain.svg"  title="Bulma" alt="Bulma" width="40"/>
+           <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"  title="Javascript" alt="Javascript" width="40"/>
          </div>
          <h1></h1>
           <h3>Feel free to visit my LinkedIn page:</h3>

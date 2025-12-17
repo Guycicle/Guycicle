@@ -2,7 +2,7 @@
    <img width="200px" src="https://media.giphy.com/media/qUABlXKRRvfQobzIXp/giphy.gif"
   </div>
 <h1>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> My name is Guy Hepworth</h1>
-<h2>I am persuing a career in Front-End Development 🎓</h2>
+<h2>I am pursuing a career in Front-End Development 🎓</h2>
    <div style="display: flex;">
       <h3>🌍 I am based between Manchester & Leeds, UK</h3>
       <h3>🧠 I am currently studying Node.js</h3>
